@@ -1,5 +1,5 @@
 # Emotion recognition from biosignals: an analysis of state of the art techniques in EEG, ECG, GSR and speech
-The repository contains a report done for the course "Affective Computing" by me and Alessandrò Calò during our Erasmus in Oulu.
+The repository contains a report done for the course "Affective Computing" during our Erasmus in Oulu.
 In the report we summarised some state-of-the-art papers on the emotion recognition based on biosignals, three topics were covered:
 * EEG Emotion Recognition using dynamical graph convolutional networks;
 * Deepfake speech detection through emotion recognition;
