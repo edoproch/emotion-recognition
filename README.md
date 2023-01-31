@@ -6,3 +6,6 @@ In the report we summarised some state-of-the-art papers on the emotion recognit
 * Emotion Recognition using EEG, ECG and face images;
 
 Furthermore, in the last part of the report we discuss about a little research that we did. We used a dataset with some EEG signals to predict the emotion of the related subject. Our proposal use the spectogram of each EEG channel as input data.
+
+## Authors
+Edoardo Procino, Alessandro Calò
